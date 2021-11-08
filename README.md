@@ -1,10 +1,11 @@
 # 예진 Yejin O
 
 ### 👩 About Me
-**"오예진 (Yejin O)"**  
+**오예진 (Yejin O)**  
 **🏫 Seoul National Univ. of Science and Technology' Computer Engineering 19'**  
-  
-
+   
+   
+   
   
 [![Minutemailer](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dpwls0421@seoultech.ac.kr)](mailto:dpwls0421@seoultech.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oyejin55@gmail.com)](mailto:oyejin55@gmail.com)  
@@ -27,9 +28,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
    <br />
+      <br />
+  
+
+**👩‍💻 Activities**
+
+![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
    <br />
    <br />
   
+
   ***
 ### Projects
 **➰[2021 EndlessCreation] 동아리 홍보 페이지**  
