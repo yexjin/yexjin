@@ -53,8 +53,8 @@
 * Django, Html, Figma
 * Github : https://github.com/WooyooMarket/wooyoo_market
 
-**➰2021 한이음 공모전 : AI를 활용한 과제 협업, 평가 학습 블로그**
-* Project-Term : Mar 30, 2021 ~ Nov 30, 2021 **(진행중)**
+**➰2021 한이음 공모전 : AI를 활용한 과제 협업, 평가 학습 블로그** **(입선)**
+* Project-Term : Mar 30, 2021 ~ Nov 30, 2021 
 * 팀장, 기획, 디자인, Front-end, Back-end
 * Figma, React, Node.js, Koa.js, MariaDB, Machinlearning
-* Gitlab
+* Github : https://github.com/yexjin/JOIN_2021hanium (Gitlab copy)
