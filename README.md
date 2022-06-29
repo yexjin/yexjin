@@ -7,7 +7,6 @@
    
    
   
-[![React](https://img.shields.io/badge/PortFolio-0088CC?style=flat-square&logo=React&logoColor=white&link=https://yexjin.github.io/yejin-portfolio/)](https://yexjin.github.io/yejin-portfolio/)  
 [![Minutemailer](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dpwls0421@seoultech.ac.kr)](mailto:dpwls0421@seoultech.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oyejin55@gmail.com)](mailto:oyejin55@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yexjin_/)](https://www.instagram.com/yexjin_/)
