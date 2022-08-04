@@ -35,6 +35,8 @@
 
 ![Surfee](https://img.shields.io/badge/Surfee-6B63F7.svg?style=flat-square&logo=surfee&logoColor=white)
 ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
+ <br />
+***AUSG 6th***
    <br />
    <br />
   
