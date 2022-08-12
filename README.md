@@ -32,16 +32,15 @@
   
 
 **👩‍💻 Activities**
-
-![Surfee](https://img.shields.io/badge/Surfee-6B63F7.svg?style=flat-square&logo=surfee&logoColor=white)
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
- <br />
-***AUSG 6th***
+* Surfee FE Developer
+* 멋쟁이 사자처럼 9th
+* AUSG 6th
+* GDSC Seoultech 2nd Core
    <br />
    <br />
   
 
-  ***
+***
 ### Projects
 **➰[2021 EndlessCreation] 동아리 홍보 페이지**  
 * 서울과학기술대학교 컴퓨터공학과 Endless Creation 동아리 홈페이지
