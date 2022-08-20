@@ -39,31 +39,3 @@
    <br />
    <br />
   
-
-***
-### Projects
-**➰[2021 EndlessCreation] 동아리 홍보 페이지**  
-* 서울과학기술대학교 컴퓨터공학과 Endless Creation 동아리 홈페이지
-* Project-Term : Jan 18, 2021 ~ Feb 28, 2021
-* Front-end
-* React
-* Github : https://github.com/EndlessCreation/ec_homepage_front 
-
-**➰서울과학기술대학교 멋쟁이 사자처럼 9기 우유마켓팀**
-* Project-Term : Jul 18, 2021 ~ Aug 14, 2021
-* 기획, 디자인, Front-end, Back-end
-* Django, Html, Figma
-* Github : https://github.com/WooyooMarket/wooyoo_market
-
-**➰2021 한이음 공모전 : AI를 활용한 과제 협업, 평가 학습 블로그** **(입선)**
-* Project-Term : Mar 30, 2021 ~ Nov 30, 2021 
-* 팀장, 기획, 디자인, Front-end, Back-end
-* Figma, React, Node.js, Koa.js, MariaDB, Machinlearning
-* Github : https://github.com/yexjin/JOIN_2021hanium (Gitlab copy)
-
-**➰노코드 랜딩페이지 제작 툴, Surfee**
-* Project-Term : Jan 24, 2021 ~ 
-* Front-end
-* React
-* Github : https://github.com/thxxx/kiwi
-* Url : https://surfee.co.kr
