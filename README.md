@@ -34,7 +34,7 @@
 **👩‍💻 Activities**
 * [Surfee FE Developer](https://surfee.co.kr)
 * [멋쟁이 사자처럼 9th](https://www.likelion.net)
-* [AUSG 6th](https://www.likelion.net)
+* [AUSG 6th](https://ausg.me)
 * [GDSC Seoultech 2nd Core](https://gdsc-seoultech.github.io)
 * [KUSITHMS 26th](https://cafe.naver.com/kusitms)
    <br />
