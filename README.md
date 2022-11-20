@@ -3,7 +3,7 @@
    
 
   
-**Kakao Enterprise** Cloud Solution Architect Intern <sub>2022/12 - now</sub>  
+**Kakao Enterprise** Cloud Solutions Architect Intern <sub>2022/12 - now</sub>  
 **Korean University Students IT & Management Society** 26th <sub>2022/08 - 11</sub>  
 **Google Developer Student Club Seoultech** 2nd Core Member <sub>2022/08 - now</sub>  
 **AUSG** 6th <sub>2022/07 - now</sub>  
