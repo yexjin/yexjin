@@ -12,7 +12,7 @@
 **Endless Creation** 29th <sub>2019/04 - now</sub>
    <br />
 ***
-[![Minutemailer](https://img.shields.io/badge/Email-30B980?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:dpwls0421@seoultech.ac.kr)](mailto:dpwls0421@seoultech.ac.kr)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oyejin55@gmail.com)](mailto:oyejin55@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yexjin_/)](https://www.instagram.com/yexjin_/)
 [![GitHubSponsors](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white&link=https://yexjinitlog.tistory.com)](https://yexjinitlog.tistory.com)  
