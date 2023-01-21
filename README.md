@@ -18,7 +18,8 @@
 [![GitHubSponsors](https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=GitHubSponsors&logoColor=white&link=https://yexjinitlog.tistory.com)](https://yexjinitlog.tistory.com)  
   
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)   
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
