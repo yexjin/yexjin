@@ -19,6 +19,7 @@
   
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=openstack&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361DAFB)
