@@ -1,4 +1,4 @@
-**🎀 오예진 (Yejin O)**  
+**🎀 오예진 (Yejin Oh)**  
 **🏫 Seoul National Univ. of Science and Technology' Computer Engineering 19'**  
    
 
