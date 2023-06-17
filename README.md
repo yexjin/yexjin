@@ -2,8 +2,10 @@
 **🏫 Seoul National Univ. of Science and Technology' Computer Engineering 19'**  
    
 
-  
+
+**Naver Cloud** Product Manager Intern <sub>2023/06 - now</sub>  
 **Kakao Enterprise** Cloud Solutions Architect Intern <sub>2022/12 - 2023/06</sub>  
+   
 **AWS Student Club** 1th Captain <sub>2023/5 - now</sub>  
 **AWSKRUG University Student Group** 6th <sub>2022/07 - now</sub>  
 **Google Developer Student Club Seoultech** 2nd Core Member <sub>2022/08 - 2023/05</sub>  
