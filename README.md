@@ -3,7 +3,7 @@
    
 
 
-**NAVER Cloud** Digital Convergence Product Planning Intern <sub>2023/06 - now</sub>  
+**NAVER Cloud** AI/DT Product Planning Intern <sub>2023/06 - now</sub>  
 **Kakao Enterprise** Cloud Solutions Architect Intern <sub>2022/12 - 2023/06</sub>  
    
 **AWS Student Club** 1th Captain <sub>2023/5 - now</sub>  
